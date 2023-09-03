@@ -4,4 +4,6 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Minorey</h1></summary>
   </ul>
 </div>
-![Banner Youtube Pixel Art Neon Colorido (1)](https://github.com/Minorey/Minorey/assets/117509425/512da711-1855-4398-9165-39afb480b28d)
+<div align="center">
+  <img  src="https://user-images.githubusercontent.com/117509425/265293330-512da711-1855-4398-9165-39afb480b28d.png"/></a>
+</div>
