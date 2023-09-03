@@ -5,5 +5,5 @@
   </ul>
 </div>
 <div align="center">
-  <img  src="https://user-images.githubusercontent.com/117509425/265293330-512da711-1855-4398-9165-39afb480b28d.png"/></a>
+  <img  src="https://user-images.githubusercontent.com/117509425/265293330-512da711-1855-4398-9165-39afb480b28d.png" width='500' /></a>
 </div>
