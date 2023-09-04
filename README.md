@@ -14,9 +14,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; Desarrollo de aplicaciones Android nativas.\
-🎓 &nbsp; Aprender nuevas tecnologías y mejorar mis habilidades de programación.\
-🌱 &nbsp; en proyectos de código abierto.\
+📱&nbsp;Desarrollo de aplicaciones Android nativas.\
+🎓&nbsp;Aprender nuevas tecnologías y mejorar mis habilidades de programación.\
+🌱&nbsp;Colaborar en proyectos de código abierto.\
 <br>
 <hr>
 
@@ -40,7 +40,7 @@ Web
 <br>
 <hr> 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## 	:octocat: &nbsp; Github Stats 
 
 <br>
 
