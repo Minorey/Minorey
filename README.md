@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img  src="https://user-images.githubusercontent.com/117509425/265293330-512da711-1855-4398-9165-39afb480b28d.png" alt="Banner" width="400" /></a>
+  <img  src="https://user-images.githubusercontent.com/117509425/265296707-eabf233d-2426-4456-9018-f1e34e5d6052.png" width="800" /></a>
 </div>
 
 <!--h1 without bottom border-->
